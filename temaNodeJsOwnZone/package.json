@@ -1,0 +1,11 @@
+{
+  "name": "temaNodeJsOwnZone",
+  "main": "./src/app.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gm": "^1.23.1",
+    "ts-promise": "^2.1.0",
+    "typescript": "^3.1.4"
+  }
+}
